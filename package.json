@@ -1,0 +1,9 @@
+{
+  "name": "carryon-jewelry-organizer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node --check script.js",
+    "preview": "python -m http.server 4173"
+  }
+}
