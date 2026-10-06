@@ -1,0 +1,10 @@
+# Local browser verification artifacts
+chrome-profile*/
+desktop.png
+mobile.png
+product-desktop.png
+product-mobile.png
+
+# Common local tooling
+node_modules/
+*.log
